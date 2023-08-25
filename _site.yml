@@ -13,10 +13,10 @@ navbar:
     - text: "Outreach"
       href: outreach.html
   right:
+    - icon: fa-envelope-o
+      href: mailto:coliverbrown@alaska.edu
     - icon: fa-twitter
       href: https://twitter.com/CaitlynOBrown
-    - icon: fa-envelope-o
-      href: mailto:coliverbrown@alaska.edu                     
     - icon: fa-github
       href: https://github.com/coliverbrown        
 output:
