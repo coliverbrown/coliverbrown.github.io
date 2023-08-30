@@ -1,9 +1,9 @@
 ---
 title: "Caitlyn Oliver Brown"
 ---
+<div style="display:table-cell; vertical-align:middle; text-align:left">
+<img src="/Users/brown/GitHub/coliverbrown.github.io/media/me_goshawk.jpg"  style="float:right" width = "35%">
 
-
-![](/Users/brown/GitHub/coliverbrown.github.io/media/me_goshawk.jpg){width=50%}
 
 My name’s Caitlyn Oliver Brown and I’m a graduate student at University of Alaska Fairbanks working toward my M.Sc. in Biology. My research focuses on population divergence between avian populations in Beringia and local adaptation in Alaskan Song Sparrow subspecies. I earned a B.Sc. in Biology, Ecology and Evolution at San Jose State University, where I analyzed the phenotypic differences in Clark’s Nutcracker museum specimens. 
 
