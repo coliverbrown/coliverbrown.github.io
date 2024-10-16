@@ -2,7 +2,7 @@
 title: "CV"
 ---
 
-<a href="OliverBrown_CV2023" class="download" title="Download CV as PDF">Download CV</a>			
+<a href="OliverBrown_CV2024" class="download" title="Download CV as PDF">Download CV</a>			
 
 
-Updated Aug 2023
+Updated Oct 2024
