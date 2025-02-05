@@ -8,15 +8,13 @@ navbar:
       href: index.html
     - text: "Research"
       href: research.html
-    - text: "CV"
-      href: OliverBrown_CV2024.pdf
     - text: "Outreach"
       href: outreach.html
   right:
     - icon: fa-envelope-o
       href: mailto:coliverbrown@unm.edu
     - icon: fa-twitter
-      href: https://twitter.com/CaitlynOBrown
+      href: https://bsky.app/profile/coliverbrown.bsky.social
     - icon: fa-github
       href: https://github.com/coliverbrown        
 output:
