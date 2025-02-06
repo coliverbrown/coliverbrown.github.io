@@ -1,13 +1,15 @@
 ---
-title: "About"
+title: "Caitlyn C. Oliver Brown"
 ---
+<div style="display:table-cell; vertical-align:middle; text-align:left">
+<img src="/Users/coliverbrown/Documents/GitHub/coliverbrown.github.io/media/headshot_crop.jpg"  style="float:right" width = "35%">
 
-## Caitlyn Oliver Brown
 
-![](/Users/brown/GitHub/coliverbrown.github.io/media/me_goshawk.jpg){width=50%}
+I am a biologist interested in avian evolution and museum specimens. I graduated from San José State University (SJSU) with a B.S. in Biology, with a concentration in ecology and evolution in 2019. After graduating from SJSU, I worked three field seasons as a research technician. I worked on mule deer, Greater Sage-Grouse, and California Spotted Owls. Though I enjoyed working in the field, I longed to return to museum work.
 
-My name’s Caitlyn Oliver Brown and I’m a graduate student at University of Alaska Fairbanks working toward my M.Sc. in Biology. My research focuses on population divergence between avian populations in Beringia and local adaptation in Alaskan Song Sparrow subspecies. I earned a B.Sc. in Biology, Ecology and Evolution at San Jose State University, where I analyzed the phenotypic differences in Clark’s Nutcracker museum specimens. 
+After two years of field work, I began a Master's program at the University of Alaska Fairbanks (UAF). I worked with [Dr. Kevin Winker](https://www.kevinwinker.org/), the curator of birds at the University of Alaska Museum of the North. My Master’s thesis examined gene flow, divergence, and local adaptation in Beringian birds. While at UAF, I worked as a Curatorial Assistant, collecting and preparing bird specimens. 
 
-In between undergrad and graduate school, I worked on multiple seasonal field jobs with both mammals and birds. I trapped and collared mule deer fawns and Greater Sage-Grouse and worked independently to set up ARUs to track California Spotted Owls.
+Currently, I am a PhD student at the University of New Mexico in the [Andersen Lab](https://www.andersenlabunm.org/). I’m also an [NSF Museum Research Trainee](https://mrt.unm.edu/). I hope to use phylogenomics to study the biogeography of island systems.
 
-I am passionate about science communication and outreach. Broadly, I’m interested in avian evolution, genomics, and museum collections. I am currently looking towards earning a PhD for a career in academia, hopefully as a museum curator.
+<a href="OliverBrown_CV_jan2025.pdf" class="download" title="Download CV as PDF">Download CV</a>	
+

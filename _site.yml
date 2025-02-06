@@ -19,5 +19,7 @@ navbar:
       href: https://github.com/coliverbrown        
 output:
   html_document:
-    theme: readable
-    highlight: default
+    theme: cerulean
+    toc: yes
+    toc_float:
+      collapsed: true

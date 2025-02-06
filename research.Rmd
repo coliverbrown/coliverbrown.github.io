@@ -4,7 +4,13 @@ title: "Research"
 Broadly, I am interested in avian evolution, speciation, and phylogenomics. To answer these questions, I employ genomics and museum specimens. My Master's thesis used Beringia as a model to understand divergence between avian populations.
 
 ***
-![Song Sparrow museum specimens](/Users/brown/GitHub/coliverbrown.github.io/media/melospiza_drawer.jpg){width=50%}
+### Gene flow and divergence in Beringian birds
+![](/Users/coliverbrown/Documents/GitHub/coliverbrown.github.io/media/turnstone-2.jpg){width=50%}
 
+We investigated divergence, gene flow, and speciation in Beringia, a region at the top of the North Pacific Ocean with a history of dramatic landscape alteration through Pleistocene glacial cycles. These cycles repeatedly split and connected the Asian and North American continents, separating and reconnecting avian populations. Glacial refugia within Beringia also isolated some populations for a time before potentially enabling them to reunite during interglacial periods. Prior work suggests gene flow plays an important role in the divergence of Beringian birds. To improve our understanding of the generation of avian diversity in Beringia, we tested models of demographic history in 11 lineages from five avian orders (Anseriformes, Gaviiformes, Charadriiformes, Piciformes, and Passeriformes) using population-, subspecies-, and species-level pairwise comparisons. Preprint is avaliavle at [Authorea](https://doi.org/10.22541/au.173868009.93699733/v1).
+
+***
 ### *Melospiza melodia* subspecies of Alaska
+![](/Users/coliverbrown/Documents/GitHub/coliverbrown.github.io/media/melospiza_drawer.jpg){width=50%}
+
 With over 5 recognized subspecies, the Song Sparrow complex of Alaska provides a unique way to study local adaption and variation. Song Sparrows occur across southern Alaska from Attu Island to southeast Alaska, and from west to east these populations demonstrate striking body size differences (larger-to-smaller) and a change from a sedentary to a migratory/partially migratory life-history strategy. We looked at both phenotypic and genomic variation to examine local adaptation in Alaska. Preprint is available at [biorxiv](https://www.biorxiv.org/content/10.1101/2024.05.21.595201v1).

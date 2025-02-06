@@ -2,7 +2,7 @@
 title: "Caitlyn C. Oliver Brown"
 ---
 <div style="display:table-cell; vertical-align:middle; text-align:left">
-<img src="/Users/brown/GitHub/coliverbrown.github.io/media/headshot_crop.jpg"  style="float:right" width = "35%">
+<img src="/Users/coliverbrown/Documents/GitHub/coliverbrown.github.io/media/headshot_crop.jpg"  style="float:right" width = "35%">
 
 
 I am a biologist interested in avian evolution and museum specimens. I graduated from San José State University (SJSU) with a B.S. in Biology, with a concentration in ecology and evolution in 2019. After graduating from SJSU, I worked three field seasons as a research technician. I worked on mule deer, Greater Sage-Grouse, and California Spotted Owls. Though I enjoyed working in the field, I longed to return to museum work.
@@ -10,3 +10,6 @@ I am a biologist interested in avian evolution and museum specimens. I graduated
 After two years of field work, I began a Master's program at the University of Alaska Fairbanks (UAF). I worked with [Dr. Kevin Winker](https://www.kevinwinker.org/), the curator of birds at the University of Alaska Museum of the North. My Master’s thesis examined gene flow, divergence, and local adaptation in Beringian birds. While at UAF, I worked as a Curatorial Assistant, collecting and preparing bird specimens. 
 
 Currently, I am a PhD student at the University of New Mexico in the [Andersen Lab](https://www.andersenlabunm.org/). I’m also an [NSF Museum Research Trainee](https://mrt.unm.edu/). I hope to use phylogenomics to study the biogeography of island systems.
+
+<a href="OliverBrown_CV_jan2025.pdf" class="download" title="Download CV as PDF">Download CV</a>	
+
