@@ -1,7 +1,7 @@
 ---
 title: "Outreach"
 ---
-
+### Museum Outreach
 One of the greatest parts of my job as a curatorial assistant is public reach. I enjoy being an ambassador of the museum and explaining how museum research helps us understand the world. In my time at UAMN, I have volunteered at a couple of open house events and was interview for an article in the local paper, the *Fairbanks Daily News-Miner*.
 
 ![A clipping from the article I was interviewed for](/Users/coliverbrown/Documents/GitHub/coliverbrown.github.io/media/paper_clipping.jpg){width=50%}
@@ -9,6 +9,8 @@ One of the greatest parts of my job as a curatorial assistant is public reach. I
 ![Here I am presenting museum specimens during UAMN Family Day](/Users/coliverbrown/Documents/GitHub/coliverbrown.github.io/media/me_family_day.JPG){width=50%}
 
 ***
+
+### Other Outreach
 
 Additionally, I have participated in the [Letters to a Pre-Scientist program](https://prescientist.org/) since 2022. In this program, I sent four letters to a middle school student to discuss being a STEM professional and encourage them to pursue a career in STEM.
 

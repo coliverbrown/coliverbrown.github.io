@@ -16,7 +16,9 @@ navbar:
     - icon: fa-twitter
       href: https://bsky.app/profile/coliverbrown.bsky.social
     - icon: fa-github
-      href: https://github.com/coliverbrown        
+      href: https://github.com/coliverbrown
+    - icon: fa-graduation-cap
+      href: https://scholar.google.com/citations?user=t7LVntgAAAAJ&hl=en&oi=ao
 output:
   html_document:
     theme: cerulean
